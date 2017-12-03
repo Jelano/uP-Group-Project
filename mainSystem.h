@@ -2,7 +2,6 @@
  * File:   mainSystem.h
  * Author: jcalb
  *
- * Created on December 3, 2017, 3:30 AM
  */
 
 #ifndef MAINSYSTEM_H
