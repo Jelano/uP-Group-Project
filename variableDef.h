@@ -2,7 +2,6 @@
  * File:   variableDef.h
  * Author: jcalb
  *
- * Created on December 3, 2017, 4:01 AM
  */
 
 #ifndef VARIABLEDEF_H
@@ -28,7 +27,7 @@ char const keyPadMatrix[] ={
 int tenCount = 0, heartBeat = 0, bpmObtain = 0, risEdg = 0;
 unsigned int cptOut1 = 0, cptOut2 = 0, peak = 0, interval = 0, 
         ovrFlwCount = 0, prevTime = 0, 
-        indicator = 0, fin = 0, nn = 0, nn_50 = 0;
+        indicator = 0, nn = 0, nn_50 = 0;
 float hrv = 0;
 
 /*Alert Related*/
